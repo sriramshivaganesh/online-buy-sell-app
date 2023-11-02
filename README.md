@@ -2,9 +2,9 @@
 
 This Repository contains the code for online buy and sell app, with react as the frontend, flask as backend and mongodb as the database. the backend is also docker containerized.
 
-To start the project run the app.py and uplod the data using postman 
+To start the project run the app.py and upload data of your choice using postman 
 
-example json data is the form of 
+example json data is in the form of 
 
 
     {
